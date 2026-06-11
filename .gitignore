@@ -1,0 +1,25 @@
+```gitignore id="ndpw0x"
+# WordPress Core
+/wp-admin/
+/wp-includes/
+
+# Uploads
+/wp-content/uploads/
+
+# Cache
+/wp-content/cache/
+
+# Debug
+debug.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+```
